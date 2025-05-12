@@ -36,7 +36,6 @@ nav {
     display: flex;
     align-items: center;
 }
-
 ul {
     display: flex;
     width: 400px;
@@ -75,7 +74,6 @@ main {
 .container > img:last-child {
     margin: 0;
 }
-
 footer {
     background-color: rgb(161, 161, 161);
 }
