@@ -57,15 +57,16 @@ ul li a:hover {
 p {
     line-height: 18px;
 }
-
 main {
     background-color: rgb(225, 207, 102);
     margin-bottom: 4px;
     height: 170px;
+}
+.container {
     display: flex;
     align-items: center;
 }
-.container {
+.container_content {
     margin-left: 12px;
 }
 .container > img {
